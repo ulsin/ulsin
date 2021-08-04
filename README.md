@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+More info and public libraries to come soon.
 
 <!--
 **ulsin/ulsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
