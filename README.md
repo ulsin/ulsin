@@ -15,7 +15,7 @@ More info and public libraries to come soon.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ulsin&show_icons=true&count_private=true&hide_rank=true&hide=issues&include_all_commits=true&custom_title=GitHub%20Stats" width="40%" height="100%"/>
 
-<a href="https://github.com/ulsin/github-readme-stats">
+<a href="https://github.com/ulsin/github-readme-stats" height="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true&layout=compact&hide=jupyter%20notebook,php&langs_count=10" width=40% height="100%"/>
 </a>
 
