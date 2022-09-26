@@ -6,8 +6,10 @@ More info and public libraries to come soon.
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/languages.svg)
+<!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/overview.svg) -->
+<!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/languages.svg) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin)](https://github.com/ulsin/github-readme-stats)
 
 </div>
 
