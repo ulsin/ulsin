@@ -13,10 +13,10 @@ More info and public libraries to come soon.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true)](https://github.com/ulsin/github-readme-stats) -->
 
 <a href="https://github.com/ulsin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin" />
 </a>
 <a href="https://github.com/ulsin/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin" />
 </a>
 
 </div>
