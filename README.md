@@ -9,15 +9,16 @@ More info and public libraries to come soon.
 <!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/overview.svg) -->
 <!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/languages.svg) -->
 <!-- 
+ -->
 ![ulsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulsin&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true)](https://github.com/ulsin/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true&layout=compact)](https://github.com/ulsin/github-readme-stats)
 
-<a href="https://github.com/ulsin/github-readme-stats">
+<!-- <a href="https://github.com/ulsin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin" />
 </a>
 <a href="https://github.com/ulsin/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin" />
-</a>
+</a> -->
 
 </div>
 
