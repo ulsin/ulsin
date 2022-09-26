@@ -10,8 +10,14 @@ More info and public libraries to come soon.
 <!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/languages.svg) -->
 <!-- 
  -->
-![ulsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulsin&show_icons=true&count_private=true&hide_rank=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=10)](https://github.com/ulsin/github-readme-stats)
+<!-- ![ulsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulsin&show_icons=true&count_private=true&hide_rank=true&hide=issues&include_all_commits=true&custom_title=GitHub%20Stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=10)](https://github.com/ulsin/github-readme-stats) -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=ulsin&show_icons=true&count_private=true&hide_rank=true&hide=issues&include_all_commits=true&custom_title=GitHub%20Stats" />
+
+<a href="https://github.com/ulsin/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=10" />
+</a>
 
 <!-- <a href="https://github.com/ulsin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin" />
