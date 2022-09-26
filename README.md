@@ -11,7 +11,7 @@ More info and public libraries to come soon.
 <!-- 
  -->
 ![ulsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulsin&show_icons=true&count_private=true&hide_rank=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true&layout=compact&hide=jupyter%20notebook)](https://github.com/ulsin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=10)](https://github.com/ulsin/github-readme-stats)
 
 <!-- <a href="https://github.com/ulsin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin" />
