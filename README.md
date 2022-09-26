@@ -9,7 +9,8 @@ More info and public libraries to come soon.
 <!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/overview.svg) -->
 <!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/languages.svg) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin)](https://github.com/ulsin/github-readme-stats)
+![ulsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulsin&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&count_private=true)](https://github.com/ulsin/github-readme-stats)
 
 </div>
 
