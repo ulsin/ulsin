@@ -4,7 +4,10 @@
 
 More info and public libraries to come soon.
 
-<!-- <div align="center"> -->
+<div align="center">
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+</div>
 
 <!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/overview.svg) -->
 <!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/languages.svg) -->
@@ -26,7 +29,6 @@ More info and public libraries to come soon.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ulsin" />
 </a> -->
 
-<!-- </div> -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsin&show_icons=true&langs_count=20&count_private=true&layout=compact&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats) -->
