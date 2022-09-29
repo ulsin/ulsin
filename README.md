@@ -5,8 +5,8 @@
 More info and public libraries to come soon.
 
 <div align="center">
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ulsin/ulsin-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ulsin/ulsin-stats/master/generated/overview.svg#gh-light-mode-only)
 </div>
 
 <!-- ![](https://raw.githubusercontent.com/ulsin/github-stats/master/generated/overview.svg) -->
