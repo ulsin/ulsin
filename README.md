@@ -1,7 +1,7 @@
 <!-- <style></style> -->
 
 
-<div align="center">
+<div align="justify">
 
 ![](https://raw.githubusercontent.com/ulsin/ulsin-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ulsin/ulsin-stats/master/generated/overview.svg#gh-light-mode-only)
